@@ -1,5 +1,8 @@
 # Medicare Part D Prescriber Data Analysis for Negotiation Support
 
+[Negotiation Support for Lenalidomide Generic vs. Revlimid](https://public.tableau.com/app/profile/sandeep.ghotra/viz/NegotiationSupportLenalidomideGenericOpportunityvs_Revlimid/Dashboard1)
+
+
 ## Project Overview
 
 This project analyzes the publicly available CMS Medicare Part D Prescribers by Provider and Drug dataset (specifically using the 2022 data) to uncover insights relevant to pharmaceutical rebate negotiations and cost management strategies. The analysis explores prescribing patterns, identifies high-cost/high-volume drugs, compares brand vs. generic utilization, examines prescriber specialty contributions, analyzes market share, and detects potential outliers.
