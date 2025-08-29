@@ -1,6 +1,6 @@
 # Medicare Part D Prescriber Data Analysis for Negotiation Support
 
-[Negotiation Support for Lenalidomide Generic vs. Revlimid](https://public.tableau.com/app/profile/sandeep.ghotra/viz/NegotiationSupportLenalidomideGenericOpportunityvs_Revlimid/Dashboard1)
+[Negotiation Support for Lenalidomide Generic vs. Revlimid Tableau Dashboard](https://public.tableau.com/app/profile/sandeep.ghotra/viz/NegotiationSupportLenalidomideGenericOpportunityvs_Revlimid/Dashboard1)
 
 
 ## Project Overview
